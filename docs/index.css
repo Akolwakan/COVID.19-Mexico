@@ -11,7 +11,7 @@ header {
 }
 
 body {
-    width: 80%;
+    width: 100%;
 	height: 100%;
 	background: -webkit-radial-gradient(center, circle, #f0f0f0, #74a9ad);
 	background: -moz-radial-gradient(center, circle, #f0f0f0, #74a9ad);
