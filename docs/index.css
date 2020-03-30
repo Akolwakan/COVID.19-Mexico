@@ -1,4 +1,4 @@
-html,body {
+html {
     height:100%;
 }
 
@@ -12,6 +12,7 @@ header {
 
 body {
     width: 80%;
+	height: 100%;
 	background: -webkit-radial-gradient(center, circle, #f0f0f0, #74a9ad);
 	background: -moz-radial-gradient(center, circle, #f0f0f0, #74a9ad);
 	background: -ms-radial-gradient(center, circle, #f0f0f0, #74a9ad);
@@ -19,7 +20,7 @@ body {
 	background: -khtml-radial-gradient(center, circle, #f0f0f0, #74a9ad);
 	background: radial-gradient(center, circle, #f0f0f0, #74a9ad);
     text-align: center;
-    padding: 10px;
+    padding: 10px, 0px;
 }
 
 footer {
