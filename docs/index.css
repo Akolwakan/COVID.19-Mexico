@@ -7,7 +7,7 @@ header {
     display:block;
     background:#47A64A;
     text-align: center;
-    padding:10px 0px;
+    padding:0px 0px;
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 	background: -khtml-radial-gradient(center, circle, #f0f0f0, #74a9ad);
 	background: radial-gradient(center, circle, #f0f0f0, #74a9ad);
     text-align: center;
-    padding: 10px, 0px;
+    padding: 0px, 0px;
 }
 
 footer {
