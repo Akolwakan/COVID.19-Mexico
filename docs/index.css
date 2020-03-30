@@ -11,15 +11,18 @@ header {
 }
 
 nav {
-    width: 97.5%;
+    width: 100%;
 }
-section {
-    width: 79%;
-    background: #ccc;
-    float: left;
-    overflow: auto;
-    padding-bottom: 60px;
-    padding-top:30px;
+body {
+    width: 80%;
+	background: -webkit-radial-gradient(center, circle, #f0f0f0, #74a9ad);
+	background: -moz-radial-gradient(center, circle, #f0f0f0, #74a9ad);
+	background: -ms-radial-gradient(center, circle, #f0f0f0, #74a9ad);
+	background: -o-radial-gradient(center, circle, #f0f0f0, #74a9ad);
+	background: -khtml-radial-gradient(center, circle, #f0f0f0, #74a9ad);
+	background: radial-gradient(center, circle, #f0f0f0, #74a9ad);
+    text-align: center;
+    padding: 10px;
 }
 
 footer {
