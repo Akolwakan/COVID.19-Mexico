@@ -9,6 +9,10 @@ header {
     text-align: center;
     padding:10px 0px;
 }
+
+nav {
+    width: 97.5%;
+}
 section {
     width: 79%;
     background: #ccc;
@@ -18,14 +22,6 @@ section {
     padding-top:30px;
 }
 
-aside {
-    float: right;
-    border: 1px solid red;
-    width: 19%;
-    border: 1px solid red;
-    /*Si quisieramos ocultar el contenido relacionado pondriamos visibility a hidden*/
-    /*visibility: hidden;*/
-}
 footer {
     position: relative;
     margin-top: -50px;
@@ -35,7 +31,4 @@ footer {
     background: #286af0;
     text-align: center;
     color: #fff;
-}
-figure {
-    display: table; margin: 0 auto;
 }
