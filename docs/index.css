@@ -26,3 +26,29 @@ body {
 footer {
     display: block;
 }
+
+#menu {
+	background: #F3E2A9;
+	padding: 5px 15px;
+	margin: 10px 5px;
+}
+#menu * { z-index: 999}
+#menu ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+#menu ul li {
+	display: inline-block;
+	list-style: none;
+	padding: 5px;
+	font: bold 15px verdana, sans-serif;
+}
+#menu ul li:hover {
+	background-color: #A9E2F3;
+}
+#menu ul li a:hover {
+	color: white;
+    text-decoration: none;
+}
